@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="medium_spacing_margin">25dp</dimen>
+    <dimen name="title_size">24dp</dimen>
+    <dimen name="img_height">200dp</dimen>
+    <dimen name="basic_margin">10dp</dimen>
+    <dimen name="detail_height">120dp</dimen>
+    <dimen name="spacing_margin">5dp</dimen>
+</resources>
